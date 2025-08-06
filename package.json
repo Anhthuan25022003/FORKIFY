@@ -8,7 +8,7 @@
     "build": "parcel build index.html --no-scope-hoist"
   },
   "repository": {
-    "type": "git",
+    "type": "modules",
     "url": "git+https://github.com/ahmedalam98/Forkify.git"
   },
   "author": "Ahmed Alam El-Deen",
